@@ -1,0 +1,27 @@
+<Countries>
+	<Thailand>
+		<Thailand sea="True" schengen="False" average_temperature="30" currency_rate="1.8" cost_per_day="60" />
+	</Thailand>
+	<Hungary>
+		<Hungary sea="False" schengen="True" average_temperature="10" currency_rate="0.3" cost_per_day="50" />
+	</Hungary>
+	<Germany>
+		<Germany sea="True" schengen="True" average_temperature="10" currency_rate="80" cost_per_day="80" />
+	</Germany>
+	<Japan>
+		<Japan sea="True" schengen="False" average_temperature="15" currency_rate="0.61" cost_per_day="70" />
+	</Japan>
+	<Ukraine>
+		<Ukraine sea="True" schengen="False" average_temperature="21" currency_rate="1" cost_per_day="5000" />
+	</Ukraine>
+	<Italy>
+		<Italy sea="True" schengen="True" average_temperature="25" currency_rate="60" cost_per_day="80" />
+	</Italy>
+	<Australia>
+		<Australia sea="True" schengen="False" average_temperature="23" currency_rate="90" cost_per_day="100" />
+	</Australia>
+	<USA>
+		<USA sea="True" schengen="False" average_temperature="21" currency_rate="80" cost_per_day="90" />
+	</USA>
+
+</Countries>
